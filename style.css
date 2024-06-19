@@ -72,7 +72,6 @@ section{
 	font-family:"Mochiy Pop One", sans-serif;
 	p{
 		font-family:"IBM Plex Sans JP", sans-serif;
-		margin-left:150px;
 }
 	h1{
 		text-align:center;
@@ -91,6 +90,7 @@ section#s1{
 	padding-bottom:50px;
 	p{
 		padding-top:20px;
+		margin-left:150px;
 	}
 	h4{
 		text-align:center;
